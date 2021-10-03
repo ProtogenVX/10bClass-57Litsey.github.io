@@ -1,0 +1,237 @@
+html, body, div, span, applet, object, iframe, h3, h4, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+caption, tbody, tfoot, thead,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Black+Ops+One|Bungee+Shade|Chakra+Petch|Codystar|Eater|Ewert|Faster+One|Lexend+Zetta|Libre+Barcode+128|Libre+Barcode+128+Text|Libre+Barcode+39+Extended|Libre+Barcode+39+Extended+Text|Libre+Barcode+39+Text|Monoton|Nosifer|Orbitron|Pinyon+Script|Pirata+One|Press+Start+2P|Rubik+Mono+One|Sarpanch|Siemreap|Stalinist+One|Turret+Road|VT323|Wire+One|Zilla+Slab+Highlight&display=swap');
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	background-image:url('1.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table{
+max-width:90%;
+padding:60px;
+margin-left:10%;
+display:block;
+font-size:1em;
+list-style:none;
+color:#FFF;
+background-color:#002;
+}
+
+.table-gallery {
+max-width:90%;
+padding:0px;
+margin-left:10%;
+display:block;
+font-size:1em;
+list-style:none;
+color:#FFF;
+background-color:#002;
+}
+
+.table-gallery-item {
+padding:0px;
+margin:0px;
+}
+
+tr, td {
+padding:20px;
+margin:10%;
+}
+
+table h2{
+text-align:center;
+}
+
+.mainwrapper {
+min-width:600px;
+max-width:1400px;
+margin:0 auto;
+background-color:#005;
+margin-left:auto;margin-right:auto;
+}
+#header {
+width:100%;
+height:120px;
+background-image:url("background.jpg");
+font-family: 'Lexend Zetta', sans-serif;
+font-size:60px;
+color:#FFF;
+}
+
+.under {
+text-align:left;
+color:#AAA;
+font-size:10px;
+vertical-align:bottom;
+}
+
+#mainmenu {
+width:250px;
+height:500px;
+background-color:#005;
+float:left;
+}
+main {
+font-family:sans-serif;
+width:calc(100% - 250px);
+min-height:1000px;
+background-color:#AAF;
+padding:border-box;
+margin-left:250px;
+color:#FFF;
+}
+
+main h1 {
+font-family: 'Lexend Zetta', sans-serif;
+font-size:60px;
+color:#007;
+margin:30px;
+text-align:center;
+}
+
+.maindivh2 {
+margin:30px;
+background-color:#005;
+padding:30px;
+color:#FFF;
+font-size:1em;
+max-width:90%;
+}
+
+.maindiv {
+margin:30px;
+background-color:#005;
+padding:30px;
+color:#FFF;
+font-size:0,7em;
+max-width:90%;
+text-decoration:none;
+}
+
+#footer {
+width:100%;
+height:30px;
+background-color:#bbb;
+}
+
+.mainmenu a{
+display:inline-block;
+font-size:1em;
+text-decoration:none;
+color:#FFF;
+}
+.mainmenu a:hover{
+color:#F00;
+background-color:#222;
+}
+
+.mainmenu{
+display:block;
+width:250px;
+font-size:1em;
+text-align:center;
+list-style:none;
+color:#FFF;
+}
+.mainmenu li{
+display:inline-block;
+position:relative;
+}
+.mainmenu li > a{
+display:inline-block;
+padding:20px 50px;
+text-decoration:none;
+position:relative;
+}
+.mainmenu li:hover>ul{
+color:#F00;
+background-color:#222;
+visibility:visible;
+}
+.mainmenu ul{
+top:0;
+left:100%;
+position:absolute;
+width:100%;
+list-style:none;
+visibility:hidden;
+color:#00F;
+background-color:#34D0B6;
+}
+
+.ssilka, .ssilka:visited, .ssilka:hover {
+text-decoration: none;
+color:#000;
+}
+
+.masonry-layout-cluster {
+  display: flex;
+  padding: 0;
+}
+.masonry-layout-cluster--vertical {
+  flex-direction: row;
+}
+.masonry-layout-cluster--horizontal {
+  flex-direction: column;
+}
+.masonry-layout-cluster__segment {
+  display: flex;
+  flex: 1 1 auto;
+}
+.masonry-layout-cluster__segment--row {
+ flex-direction: row;
+}
+.masonry-layout-cluster__segment--column {
+  flex-direction: column;
+}
+.masonry-layout-cluster__segment--half {
+  flex-basis: 50%;
+}
+.masonry-layout-cluster__segment--quarter {
+  flex-basis: 25%;
+}
+.masonry-layout-panel__content {
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 10px;
+}
+.masonry-layout-panel__content--img {
+  max-width: 100%;
+  padding: 0;
+}

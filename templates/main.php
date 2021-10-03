@@ -1,0 +1,165 @@
+<html>
+	<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<link href="css\tupo.css" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Black+Ops+One|Bungee+Shade|Chakra+Petch|Codystar|Eater|Ewert|Faster+One|Lexend+Zetta|Libre+Barcode+128|Libre+Barcode+128+Text|Libre+Barcode+39+Extended|Libre+Barcode+39+Extended+Text|Libre+Barcode+39+Text|Monoton|Nosifer|Orbitron|Pinyon+Script|Pirata+One|Press+Start+2P|Rubik+Mono+One|Sarpanch|Siemreap|Stalinist+One|Turret+Road|VT323|Wire+One|Zilla+Slab+Highlight&display=swap" rel="stylesheet" preload="preload">
+		<title>
+		<?php echo($main_tpl['title']); ?>
+		</title>
+	</head>
+	<body>
+	<div class='mainwrapper'>
+			<header id='header'>
+			<p>9Б класс</p>
+			<p class='under'>ГБОУ СО "Лицей N57"</p>
+			</header>
+		<nav id='mainmenu'>
+		<ul class='mainmenu'>
+		<li>
+		<a href='#'>
+		☭  Главная
+		</a>
+		</li>
+		</ul>
+		<ul class='mainmenu'>
+		<li>
+		<a href='spravochnik.php'>
+		☭ Справочник
+		</a>
+		<ul>
+			<li><a href="raspisanye.php">Расписание</a></li>
+			<li><a href="birthdays-list.php">Дни рождения</a></li>
+			<li><a href="servicing.php">Учителя</a></li>
+			<li><a href="servicing.php">Библиотекxа</a></li>
+			<li><a href="medcabinfo.php">Мед. Кабинет</a>
+				<ul class="mainmenu">
+					<li><a href="#">Получение справок</a></li>
+					<li><a href="#">Связь</a></li>
+					<li><a href="#">Информация</a></li>
+				</ul>
+			</li>
+		</ul>
+		</li>
+		</ul>
+		<ul class='mainmenu'>
+		<li>
+		<a href='gallery.php'>
+		☭ Галерея
+		</a>
+		</li>
+		</ul>
+		<ul class='mainmenu'>
+		<li>
+		<a href='chat.php'>
+		☭ Чат Дискорд
+		</a>
+		</li>
+		</ul>
+		<ul class='mainmenu'>
+		<li>
+		<a href='help.php'>
+		☭ FaQ/Поддержка
+		</a>
+		</li>
+		</ul>
+		</nav>
+		<main>
+		<table border="0" width="900px" height="50px">
+	<tr>
+		<td colspan="3"><h2><script type="text/javascript">
+function getDate()
+{
+    var date = new Date();
+    var hours = date.getHours();
+    var minutes = date.getMinutes();
+    var seconds = date.getSeconds();
+    if(seconds < 10)
+    {
+        seconds = '0' + seconds;
+    }
+	if(minutes < 10)
+    {
+        minutes = '0' + minutes;
+    }
+    document.getElementById('timedisplay').innerHTML = hours + ':' + minutes + ':' + seconds;
+}
+setInterval(getDate, 0);
+</script>
+<div id="timedisplay"></div>
+<script LANGUAGE="JavaScript">
+temp_date = new Date();
+day = temp_date.getDate();
+month = temp_date.getMonth() + 1;
+year = temp_date.getYear() % 100;
+if (day < 10) {
+day = "0" + day;
+}
+if (month <10) {
+month = "0" + month;
+}
+document.write(day + "." + month + "." + year );
+</SCRIPT>
+</h2></td>
+	</tr>
+ </table>
+<p><h1>Жизнь нашего класса</h1></p>
+	<table class="table-gallery" border="0" width="900px" height="180px">
+		<tr class="table-gallery-item">
+			<td class="table-gallery-item" colspan="1">
+			<img src="1.jpg" width="175px">
+			</td>
+			<td class="table-gallery-item" colspan="1">
+			<img src="2.jpg" width="175px">
+			</td>
+			<td class="table-gallery-item" colspan="1">
+			<img src="3.jpg" width="175px">
+			</td>
+			<td class="table-gallery-item" colspan="1">
+			<img src="4.jpg" width="175px">
+			</td>
+			<td class="table-gallery-item" colspan="1">
+			<img src="5.jpg" width="175px">
+			</td>
+		</tr>
+	</table>
+<p><h1>Последние новости</h1></p>
+<div class='maindivh2'>
+	<p><h2>13.09.2021 Открытие сайта!</h2></p>
+</div>
+<div class='maindiv'>
+	<p>Открытие сайта!</p>
+	<p>Сайт открыт в alpha-версии 13.09.2021 - первые шаги к первым начинаниям!</p>
+	<p>Многие функции ещё в разработке, и впереди много работы - начиная от полного открытия сайта, заканчивая шаблонированием и разделением обслуживания/разработки разных частей сайта. Скоро будет!</p>
+</div>
+<p><h1>Ближайшие события</h1></p>
+<div class='maindivh2'>
+	<p><h2>03.10.2021 Ломоносовский Турнир (олимпиада)!<h2></p>
+</div>
+<div class='maindiv'>
+	<p><h2>Сроки проведения:</h2></p>
+	<p>03.10.2021 - день события</p>
+	<p><h2>Время проведения:</h2></p>
+	<p>Начало с 7:00 по 10:00 МСК</p>
+	<p>Работы должы быть сданы не позже 15:00 МСК, время выполнения не более 5 часов</p>
+	<p><h2>Место проведения:</h2></p>
+	<p>Онлайн-площадка <a href="https://online.olimpiada.ru">online.olimpiada.ru</a></p>
+	<p><h2>Регистрация:</h2></p>
+	<p>Каждому участнику необходимо ЗАРАНЕЕ зарегистрироваться через сайт <a href="https://reg.olimpiada.ru/register/turlom-2021-2022/verify">Единой Системы Регистрации</a>, чтобы получить свой собственный код доступа к заданиям. Регистрация будет проходить с 16 сентября по 1 октября. У каждого участника должен быть личный логин в Единой Системе Регистрации</p>
+	<p><h2>Предметы олимпиады:</h2></p>
+	<p>Химия, астрономия и науки о Земле, математика, физика, литература, лингвистика, биология и история</p>
+	<p><h2>Задания:</h2></p>
+	<p>Каждому участнику будут доступны задания всех классов, но в итоговый результат идут только баллы за задания своего и старших классов.</p>
+	<p>При прохождении Турнира для сохранения ответа на каждое задание необходимо после внесения изменения в ответ нажать кнопку «Сохранить ответ». Несохранённые ответы не поступают на проверку.</p>
+	<p>В ряде задач по физике может понадобиться прикрепление чертежа, о чём будет говориться в условии задачи. Прикреплённые в файле решения и ответы не проверяются. Для решений и ответов используйте специальные предусмотренные для этого поля.</p>
+	<p>Для выполнения заданий Турнира не требуется использование дополнительных материалов. Их использование запрещено. Все задания должны быть выполнены самостоятельно. В случае, если оргкомитет обнаружит признаки несамостоятельного выполнения работ участниками, их работы по всем предметам будут аннулированы.</p>
+</div>
+	<audio autoplay="autoplay" loop="loop" preload="preload">
+	<source src="music\0.mp3" type="audio/mpeg">
+	</audio>
+		</main>
+		<footer id="footer">
+		<p>LeonidVR (nC) 2020-2021. Все права <a href="PASHALKA.HTML" class="ssilka">зафырканы</a>. Но это не просьба копировать всю информацию с сайта на свою страницу в вк.</p>
+		</footer>
+		</div>
+	</body>
+</html>
