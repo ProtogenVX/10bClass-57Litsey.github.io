@@ -1,1 +1,3 @@
 AddDefaultCharset UTF-8
+order deny,allow
+deny from all
