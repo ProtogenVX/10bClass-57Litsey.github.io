@@ -42,7 +42,15 @@ q:before, q:after {
 	content: none;
 }
 
-table{
+.videoplayer {
+margin:30px;
+background-color:#005;
+max-width:90%;
+text-decoration:none;
+}
+
+
+table {
 max-width:90%;
 padding:60px;
 margin-left:10%;
