@@ -45,7 +45,7 @@ q:before, q:after {
 .videoplayer {
 margin:30px;
 background-color:#005;
-max-width:90%;
+width:90%;
 text-decoration:none;
 height:50%;
 }
