@@ -4,7 +4,6 @@
 	<link href="css\tupo.css" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Black+Ops+One|Bungee+Shade|Chakra+Petch|Codystar|Eater|Ewert|Faster+One|Lexend+Zetta|Libre+Barcode+128|Libre+Barcode+128+Text|Libre+Barcode+39+Extended|Libre+Barcode+39+Extended+Text|Libre+Barcode+39+Text|Monoton|Nosifer|Orbitron|Pinyon+Script|Pirata+One|Press+Start+2P|Rubik+Mono+One|Sarpanch|Siemreap|Stalinist+One|Turret+Road|VT323|Wire+One|Zilla+Slab+Highlight&display=swap" rel="stylesheet" preload="preload">
 		<title>
-		<?php echo($main_tpl['title']); ?>
 		</title>
 	</head>
 	<body>
@@ -28,7 +27,7 @@
 		</a>
 		<ul>
 			<li><a href="raspisanye.php">Расписание</a></li>
-			<li><a href="birthdays-list.php">Дни рождения</a></li>
+			<li><a href="birthdays-list.html">Дни рождения</a></li>
 			<li><a href="servicing.php">Учителя</a></li>
 			<li><a href="servicing.php">Библиотекxа</a></li>
 			<li><a href="medcabinfo.php">Мед. Кабинет</a>
