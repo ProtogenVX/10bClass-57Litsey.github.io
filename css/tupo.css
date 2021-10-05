@@ -42,12 +42,20 @@ q:before, q:after {
 	content: none;
 }
 
+.videoplayerdiv {
+margin:30px;
+background-color:#005;
+width:90%;
+text-decoration:none;
+height:50%;
+}
+
 .videoplayer {
 margin:30px;
 background-color:#005;
 width:100%;
 text-decoration:none;
-height:56.25%;
+height:100%;
 }
 
 
