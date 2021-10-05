@@ -1,4 +1,4 @@
-html, body, div, span, applet, object, iframe, h3, h4, h6, p, blockquote, pre,
+html, body, span, applet, object, iframe, h3, h4, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
@@ -71,7 +71,6 @@ margin:0px;
 tr, td {
 padding:20px;
 margin:10%;
-text-align:center;
 }
 
 table h2{
