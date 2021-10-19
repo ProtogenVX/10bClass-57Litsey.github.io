@@ -144,6 +144,16 @@ font-size:1em;
 max-width:90%;
 }
 
+.maindivh2 a a:hover a:visited {
+margin:30px;
+background-color:#005;
+padding:30px;
+color:#F00;
+font-size:1em;
+max-width:90%;
+}
+
+
 .maindiv {
 margin:30px;
 background-color:#005;
