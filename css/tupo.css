@@ -145,12 +145,8 @@ max-width:90%;
 }
 
 .downloadinmain, .downloadinmain:hover, .downloadinmain:visited {
-margin:30px;
-background-color:#005;
-padding:30px;
 color:#F00;
 font-size:1em;
-max-width:90%;
 }
 
 
