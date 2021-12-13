@@ -145,13 +145,11 @@ max-width:90%;
 }
 
 .maindiv {
-margin:default;
+margin:30px;
 background-color:#005;
-padding:default;
+padding:30px;
 color:#FFF;
-font-size:0,7em;
 max-width:90%;
-border: default;
 
 }
 
