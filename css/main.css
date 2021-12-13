@@ -145,12 +145,14 @@ max-width:90%;
 }
 
 .maindiv {
-margin:30px;
+margin:default;
 background-color:#005;
-padding:30px;
+padding:default;
 color:#FFF;
 font-size:0,7em;
 max-width:90%;
+border: default;
+
 }
 
 #footer {
