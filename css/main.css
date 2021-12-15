@@ -104,11 +104,6 @@ font-size:60px;
 color:#FFF;
 }
 
-#header-puro {
-height: 100px;
-float: right;
-}
-
 .under {
 text-align:left;
 color:#AAA;
@@ -251,4 +246,9 @@ color:#000;
 .masonry-layout-panel__content--img {
   max-width: 100%;
   padding: 0;
+}
+
+#header-puro {
+height:100px;
+float:right;
 }
