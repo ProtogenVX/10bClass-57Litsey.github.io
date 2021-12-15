@@ -104,6 +104,13 @@ font-size:60px;
 color:#FFF;
 }
 
+#header-puro {
+width:100%;
+height:100%;
+float: right;
+margin:0 auto;
+}
+
 .under {
 text-align:left;
 color:#AAA;
