@@ -18,8 +18,28 @@ time, mark, audio, video {
 }
 
 @import url('https://fonts.googleapis.com/css?family=Black+Ops+One|Bungee+Shade|Chakra+Petch|Codystar|Eater|Ewert|Faster+One|Lexend+Zetta|Libre+Barcode+128|Libre+Barcode+128+Text|Libre+Barcode+39+Extended|Libre+Barcode+39+Extended+Text|Libre+Barcode+39+Text|Monoton|Nosifer|Orbitron|Pinyon+Script|Pirata+One|Press+Start+2P|Rubik+Mono+One|Sarpanch|Siemreap|Stalinist+One|Turret+Road|VT323|Wire+One|Zilla+Slab+Highlight&display=swap');
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
+@font-face {
+  font-family: 'SamsungSharpSans-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://9bclass-57litsey.github.io/fonts/SamsungSharpSans-Bold.ttf); format('ttf');
+}
+@font-face {
+  font-family: 'SamsungOne-700';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://9bclass-57litsey.github.io/fonts/SamsungOne-700.ttf);
+  format('ttf');
+}
+@font-face {
+  font-family: 'SamsungOne-400';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://9bclass-57litsey.github.io/fonts/SamsungOne-400.ttf);
+  format('ttf');
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
