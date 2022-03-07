@@ -26,6 +26,18 @@
 		<main>
 		
 		<div class="maindivh2">
+			<p><h2>Фильм в честь 8 марта!</h2></p>
+			</div>
+			<div class="maindiv">
+			<p>Ксения Чурбанова©</p>
+			<p>Дата съёмки: 06.03.2022</p>
+			<p><a href="https://disk.yandex.ru/i/EOiJgZR1b9oRQQ"> >>> СКАЧАТЬ <<< </a></p>
+			</div>
+		<div class="videoplayerdiv">
+			<iframe src="https://www.youtube.com/embed/MSyQKZF1O9w" class="videoplayer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+		</div>
+		
+		<div class="maindivh2">
 			<p><h2>Поездка в Самару - Лабиринты Галилео</h2></p>
 			</div>
 			<div class="maindiv">
