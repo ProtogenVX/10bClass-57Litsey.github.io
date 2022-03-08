@@ -34,7 +34,7 @@
 			<p><a href="https://disk.yandex.ru/i/EOiJgZR1b9oRQQ"> >>> СКАЧАТЬ <<< </a></p>
 			</div>
 		<div class="videoplayerdiv">
-			<iframe src="https://www.youtube.com/embed/MSyQKZF1O9w" class="videoplayer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+			<iframe src="https://www.youtube.com/embed/MSyQKZF1O9w" class="videoplayer" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 		</div>
 		
 		<div class="maindivh2">
@@ -74,7 +74,7 @@
 		
 		</main>
 		<footer id="footer">
-		<p>LeonidVR (nC) 2020-2021. Все права <a href="PASHALKA.HTML" class="ssilka">зафырканы</a>. Но это не просьба копировать всю информацию с сайта на свою страницу в вк.</p>
+		<p>LeonidVR (nC) 2020-2022. Все права <a href="PASHALKA.HTML" class="ssilka">зафырканы</a>. Но это не просьба копировать всю информацию с сайта на свою страницу в вк.</p>
 		</footer>
 		</div>
 	</body>

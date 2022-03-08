@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+	   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link href="css\main.css" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Black+Ops+One|Bungee+Shade|Chakra+Petch|Codystar|Eater|Ewert|Faster+One|Lexend+Zetta|Libre+Barcode+128|Libre+Barcode+128+Text|Libre+Barcode+39+Extended|Libre+Barcode+39+Extended+Text|Libre+Barcode+39+Text|Monoton|Nosifer|Orbitron|Pinyon+Script|Pirata+One|Press+Start+2P|Rubik+Mono+One|Sarpanch|Siemreap|Stalinist+One|Turret+Road|VT323|Wire+One|Zilla+Slab+Highlight&display=swap" rel="stylesheet" preload="preload">
+		<title>
+		Загрузки
+		</title>
+		<link rel="shortcut icon" href="/images/logo/favicon.png" type="image/png">
+	</head>
+	<body>
+	<div class='mainwrapper'>
+			<header id='header'>
+			<p>9Б класс</p>
+			</header>
+		<nav id='mainmenu'>
+		<ul class='mainmenu'>
+		<li>
+		<a href='https://9bclass-57litsey.github.io'>
+		<img src="/images/points/point_h_icon.png" type="image/png" width="15%">  Назад
+		</a>
+		</li>
+		</ul>
+		</nav>
+		<main>
+			<p><h1>Загрузки</h1></p>
+			<div class='maindivh2'>
+				<p><h2><a href='https://9bclass-57litsey.github.io/docs/OGE/ОГЭ_Физика_7класс.docx'> >>> Подготовка к ОГЭ - Конспект по Физике за 7 класс <<< </a></h2></p>
+			</div>
+			<div class='maindivh2'>
+				<p><h2><a href='https://9bclass-57litsey.github.io/docs/OGE/ОГЭ_Физика_8класс.docx'> >>> Подготовка к ОГЭ - Конспект по Физике за 8 класс <<< </a></h2></p>
+			</div>
+			<div class='maindivh2'>
+				<p><h2> >>> Подготовка к ОГЭ - Конспект по Физике за 9 класс <<< (скоро будет) </h2></p>
+			</div>
+			<div class='maindivh2'>
+				<p><h2><a href='https://9bclass-57litsey.github.io/images/pocket.zip'> >>> Устаревший пакет фотографий из галереи <<< </a></h2></p>
+			</div>
+		</main>
+		<footer id="footer">
+		<p>LeonidVR (nC) 2020-2021. Все права <a href="PASHALKA.HTML" class="ssilka">зафырканы</a>. Но это не просьба копировать всю информацию с сайта на свою страницу в вк.</p>
+		</footer>
+		</div>
+	</body>
+</html>
