@@ -26,6 +26,9 @@
 		</ul>
 		</nav>
 		<main>
+				<div class='maindivh2'>
+					<p><h2>В связи с американскими санкциями соединение с серверами GitHub для частного использования ограничено до 1 мбт/с, поэтому прогрузка изображений замедлена. Мы делаем всё, чтобы оптимизировать оставшийся траффик. Приносим извинения за предоставленные неудобства.<h2></p>
+				</div>
 		<div class="masonry-layout-panel masonry-layout-cluster masonry-layout-cluster--vertical">
 	  <div class="masonry-layout-cluster__segment masonry-layout-cluster__segment--column">
     <div class="masonry-layout-panel masonry-layout-cluster__segment">
