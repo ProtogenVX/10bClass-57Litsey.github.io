@@ -2,12 +2,11 @@
 <html>
 	<head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-	<link href="css\main.css" rel="stylesheet" type="text/css">
-	<link href="https://fonts.googleapis.com/css?family=Black+Ops+One|Bungee+Shade|Chakra+Petch|Codystar|Eater|Ewert|Faster+One|Lexend+Zetta|Libre+Barcode+128|Libre+Barcode+128+Text|Libre+Barcode+39+Extended|Libre+Barcode+39+Extended+Text|Libre+Barcode+39+Text|Monoton|Nosifer|Orbitron|Pinyon+Script|Pirata+One|Press+Start+2P|Rubik+Mono+One|Sarpanch|Siemreap|Stalinist+One|Turret+Road|VT323|Wire+One|Zilla+Slab+Highlight&display=swap" rel="stylesheet" preload="preload">
+	<link href="css\main.css" rel="stylesheet" type="text/css" rel="preload">
 		<title>
 		Справочник
 		</title>
-		<link rel="shortcut icon" href="/images/logo/favicon.png" type="image/png">
+		<link rel="shortcut icon" href="/images/logo/favicon.png" type="image/png" rel="preload">
 	</head>
 	<body>
 	<div class='mainwrapper'>
@@ -17,8 +16,8 @@
 		<nav id='mainmenu'>
 		<ul class='mainmenu'>
 		<li>
-		<a href='https://9bclass-57litsey.github.io'>
-		<img src="/images/points/point_h_icon.png" type="image/png" width="15%">  Главная
+		<a href='https://9bclass-57litsey.github.io' rel="prefetch">
+		<img src="/images/points/point_h_icon.png" type="image/png" width="15%" rel="preload">  Главная
 		</a>
 		</li>
 		</ul>
@@ -46,7 +45,7 @@
 		<ul class='mainmenu'>
 		<li>
 		<a href='downloads.html'>
-		<img src="/images/points/point_h_icon.png" type="image/png" width="15%">  Загрузки
+		<img src="/images/points/point_h_icon.png" type="image/png" width="15%" rel="preload">  Загрузки
 		</a>
 		</li>
 		</ul>
@@ -127,7 +126,7 @@
 	</tr>
 	<tr>
 		<td colspan="1">
-			<p><a href="servicing.html"><h5>Связь<h5></a></p>
+			<p><a href="servicing.html" rel="prefetch"><h5>Связь<h5></a></p>
 		</td>
 	</tr>
 	<tr>
