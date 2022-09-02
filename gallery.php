@@ -10,7 +10,7 @@
 	<body>
 	<div class='mainwrapper'>
 			<header id='header'>
-			<p>10Б класс</p>
+			<p>9Б класс</p>
 			<?php echo($main_tpl['user_info']); ?>
 			</header>
 		<nav id='mainmenu'>
