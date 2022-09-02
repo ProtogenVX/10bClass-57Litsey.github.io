@@ -34,7 +34,7 @@
 			<li><a href="servicing.html">Учителя</a></li>
 			<li><a href="servicing.html">Библиотека</a></li>
 			<li><a href="pamyatka.html">Памятка</a></li>
-			<li><a href="medcabinfo.php">Мед. Кабинет</a>
+			<li><a href="medcabinfo.html">Мед. Кабинет</a>
 				<ul class="mainmenu">
 					<li><a href="#">Получение справок</a></li>
 					<li><a href="#">Связь</a></li>
@@ -109,7 +109,7 @@
 	<p><h2>Модификация и разработка</h2></p>
 </div>
 <div class='maindiv'>
-	<p>Сайт находится в версии <b>1.4.9</b></p>
+	<p>Сайт находится в версии <b>2.4.9</b></p>
 	<ul></ul>
 	<p>Добавлены: <a href="https://10bclass-57litsey.github.io/video.html">Кинозал</a>, <a href="https://10bclass-57litsey.github.io/pamyatka.html">Памятка</a>, <a href="https://10bclass-57litsey.github.io/music.html">Музыка</a></p>
 	<ul></ul>
