@@ -22,20 +22,20 @@ time, mark, audio, video {
   font-family: 'SamsungSharpSans-Bold';
   font-style: normal;
   font-weight: 400;
-  src: url(https://9bclass-57litsey.github.io/fonts/SamsungSharpSans-Bold.ttf); format('ttf');
+  src: url(https://10bclass-57litsey.github.io/fonts/SamsungSharpSans-Bold.ttf); format('ttf');
 }
 @font-face {
   font-family: 'SamsungOne-700';
   font-style: normal;
   font-weight: 400;
-  src: url(https://9bclass-57litsey.github.io/fonts/SamsungOne-700.ttf);
+  src: url(https://10bclass-57litsey.github.io/fonts/SamsungOne-700.ttf);
   format('ttf');
 }
 @font-face {
   font-family: 'SamsungOne-400';
   font-style: normal;
   font-weight: 400;
-  src: url(https://9bclass-57litsey.github.io/fonts/SamsungOne-400.ttf);
+  src: url(https://10bclass-57litsey.github.io/fonts/SamsungOne-400.ttf);
   format('ttf');
 }
 
